@@ -1,9 +1,0 @@
-F:\VTS\Source VTS\ShutdownDaily\ShutdownDaily\bin\Debug\ShutdownDaily.exe
-F:\VTS\Source VTS\ShutdownDaily\ShutdownDaily\bin\Debug\ShutdownDaily.pdb
-F:\VTS\Source VTS\ShutdownDaily\ShutdownDaily\obj\Debug\ShutdownDaily.csprojResolveAssemblyReference.cache
-F:\VTS\Source VTS\ShutdownDaily\ShutdownDaily\obj\Debug\ShutdownDaily.Form1.resources
-F:\VTS\Source VTS\ShutdownDaily\ShutdownDaily\obj\Debug\ShutdownDaily.Properties.Resources.resources
-F:\VTS\Source VTS\ShutdownDaily\ShutdownDaily\obj\Debug\ShutdownDaily.csproj.GenerateResource.Cache
-F:\VTS\Source VTS\ShutdownDaily\ShutdownDaily\obj\Debug\ShutdownDaily.csproj.CoreCompileInputs.cache
-F:\VTS\Source VTS\ShutdownDaily\ShutdownDaily\obj\Debug\ShutdownDaily.exe
-F:\VTS\Source VTS\ShutdownDaily\ShutdownDaily\obj\Debug\ShutdownDaily.pdb
